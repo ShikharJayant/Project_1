@@ -1,4 +1,4 @@
-# GoodNews App
+# News Now
 
 The application is contructed using XML for frontend and kotlin language for backend respectively.
 
